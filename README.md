@@ -22,7 +22,13 @@
 | 10 | Server Logs Monitoring | ✅ Done |
 | 11 | SSL/HTTPS (Certbot) | ✅ Done |
 | 12 | Domain Name Connect | ✅ Done |
-
+| 13 | GitHub Documentation | ✅ Done |
+| 14 | Basic Linux Commands | ✅ Done |
+| 15 | Systemctl & Process Management | ✅ Done |
+| 16 | VPC Setup | ✅ Done |
+| 17 | Internet Gateway | ✅ Done |
+| 18 | Public & Private Subnets | ✅ Done |
+| 19 | Route Tables | ✅ Done |
 ---
 
 ## 🛠️ Tech Stack
