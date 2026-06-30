@@ -29,6 +29,7 @@
 | 17 | Internet Gateway | ✅ Done |
 | 18 | Public & Private Subnets | ✅ Done |
 | 19 | Route Tables | ✅ Done |
+| 20 | Network ACLs | ✅ Done |
 ---
 
 ## 🛠️ Tech Stack
