@@ -30,6 +30,7 @@
 | 18 | Public & Private Subnets | ✅ Done |
 | 19 | Route Tables | ✅ Done |
 | 20 | Network ACLs | ✅ Done |
+| 21 | NAT Gateway  | ✅ Done |
 ---
 
 ## 🛠️ Tech Stack
