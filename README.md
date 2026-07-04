@@ -31,6 +31,7 @@
 | 19 | Route Tables | ✅ Done |
 | 20 | Network ACLs | ✅ Done |
 | 21 | NAT Gateway  | ✅ Done |
+| 22 | Route 53 (DNS) | ✅ Done |
 ---
 
 ## 🛠️ Tech Stack
