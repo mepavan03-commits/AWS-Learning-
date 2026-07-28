@@ -32,6 +32,11 @@
 | 20 | Network ACLs | ✅ Done |
 | 21 | NAT Gateway  | ✅ Done |
 | 22 | Route 53 (DNS) | ✅ Done |
+| 23 | Load Balancer (ALB) | ✅ Done |
+| 24 | Auto Scaling (ASG) | ✅ Done |
+| 25 | AMI (Amazon Machine Image) | ✅ Done |
+| 26 | Amazon S3 (Static Website Hosting) | ✅ Done |
+
 ---
 
 ## 🛠️ Tech Stack
