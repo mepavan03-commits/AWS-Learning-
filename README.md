@@ -36,7 +36,7 @@
 | 24 | Auto Scaling (ASG) | ✅ Done |
 | 25 | AMI (Amazon Machine Image) | ✅ Done |
 | 26 | Amazon S3 (Static Website Hosting) | ✅ Done |
-
+| 27 | EBS + Snapshots | ✅ Done 
 ---
 
 ## 🛠️ Tech Stack
