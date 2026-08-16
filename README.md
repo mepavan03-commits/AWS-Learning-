@@ -38,7 +38,7 @@
 | 26 | Amazon S3 (Static Website Hosting) | ✅ Done |
 | 27 | EBS + Snapshots | ✅ Done |
 | 28 |RDS (MySQL/PostgreSQL)  ✅ | Done |
-| 29  RDS (MySQL/PostgreSQL)      |✅  Done |
+| 29 |RDS (MySQL/PostgreSQL)      |✅  Done |
 | 30 |IAM (Users, Groups, Roles)  |✅  Done |
 ---
 
