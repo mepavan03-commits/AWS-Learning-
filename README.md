@@ -40,6 +40,7 @@
 | 28 |RDS (MySQL/PostgreSQL)   | Done |✅|
 | 29 |RDS (MySQL/PostgreSQL)      |✅  Done |
 | 30 |IAM (Users, Groups, Roles)  |✅  Done |
+| 31 |IAM Policies   |✅  Done |
 ---
 
 ## 🛠️ Tech Stack
