@@ -41,6 +41,7 @@
 | 29 |RDS (MySQL/PostgreSQL)      |✅  Done |
 | 30 |IAM (Users, Groups, Roles)  |✅  Done |
 | 31 |IAM Policies   |✅  Done |
+| 31 | AWS CloudTrail   |✅  Done |
 ---
 
 ## 🛠️ Tech Stack
