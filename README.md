@@ -42,6 +42,7 @@
 | 30 |IAM (Users, Groups, Roles)  |✅  Done |
 | 31 |IAM Policies   |✅  Done |
 | 32 | AWS CloudTrail   |✅  Done |
+| 33 | AWS Cloudwatch   |✅  Done |
 ---
 
 ## 🛠️ Tech Stack
