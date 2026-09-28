@@ -43,7 +43,7 @@
 | 31 |IAM Policies   |✅  Done |
 | 32 | AWS CloudTrail   |✅  Done |
 | 33 | AWS Cloudwatch   |✅  Done |
-| 3 |  AWS CLI   |✅  Done |
+| 34 |  AWS CLI   |✅  Done |
 ---
 
 ## 🛠️ Tech Stack
