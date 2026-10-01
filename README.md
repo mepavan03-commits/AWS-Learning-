@@ -44,6 +44,7 @@
 | 32 | AWS CloudTrail   |✅  Done |
 | 33 | AWS Cloudwatch   |✅  Done |
 | 34 |  AWS CLI   |✅  Done |
+| 35 |  VPC Peering   |✅  Done |
 ---
 
 ## 🛠️ Tech Stack
