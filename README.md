@@ -57,6 +57,4 @@
 
 ---
 
-## 🚀 Coming Soon
 
-VPC · IAM · S3 · Docker · Terraform · GitHub Actions
