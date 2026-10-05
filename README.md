@@ -56,5 +56,12 @@
 - **Domain:** DuckDNS
 
 ---
+---
 
+## 🐧 Linux & Virtualization Practice
+
+Alongside my AWS Cloud learning, I also practiced Linux administration using Ubuntu in VMware and VirtualBox.
+
+👉 **Linux + VMware + VirtualBox Hands-on:**  
+[linux-vmware-virtualbox-hands-on](https://github.com/mepavan03-commits/linux-vmware-virtualbox-hands-on)
 
